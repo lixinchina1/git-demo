@@ -2,9 +2,4 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
-
-Whatever I want as long as I learn enough to start testing in NS1
-
-Adding 2nd time
-
+# Keep on learning

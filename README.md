@@ -5,6 +5,6 @@ This is the first file in this repo.
 # Keep on learning
 
 ## How to merge
-Please learn merge fast
+Unique testing
 
 ### How to merge without fast farward
